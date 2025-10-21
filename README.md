@@ -8,7 +8,7 @@
 </p>
 
 <p align="left">
-  Sou um desenvolvedor estudante focado em aprender construir soluções eficientes. Tenho experiência em Python, Django e Docker e almejo transformar ideias em código.
+  Sou um desenvolvedor estudante focado em aprender e construir soluções eficientes. Tenho experiência em Python, Django e Docker e almejo transformar ideias em código.
 </p>
 
 - 🔭 Atualmente estou trabalhando em um projeto de **Sistema de Gestão de Estoque**.
