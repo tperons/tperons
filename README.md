@@ -17,15 +17,15 @@ ___
 My current focus is on backend architecture and modern web development, working primarily within *macOS* and *Linux* environments.
 
 **Languages & Frameworks:**
-* **Java** (Spring Framework, Maven)
 *  **Python** (Django)
+* **Java** (Spring Framework, Maven)
+* **HTML** (Vanilla)
 * **JavaScript** (Vanilla JS Concepts, Angular)
 
 **Environment & DevOps:**
 * **Containerization:** Docker
 * **Version Control:** Git
-* **IDEs:** VS Code, IntelliJ IDEA
-* **Terminal:** Zsh, Bash scripting
+* **IDEs:** VS Code, JetBrains
 
 ___
 
@@ -37,23 +37,13 @@ ___
 
 ___
 
-### Projects
-
-#### Project Web Cars
-*Full-stack platform serving as a digital storefront and inventory management system for used car dealerships.*
-
-* **Stack:** Python, Docker, Postgres
-* **Links:** [Repository](https://github.com/tperons/project-web-cars) | [Deploy](https://cars.tiagoperon.com.br/)
-
-___
-
 ### My Github Statistics
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tperons&layout=compact&locale=en&theme=dracula" alt="" />
+  <img align="center" src="https://tperons-github-readme-stats.vercel.app/api/top-langs/?username=tperons&layout=compact&locale=en&theme=dracula" alt="" />
 </p>
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tperons&show_icons=true&locale=en&theme=dracula&include_all_commits=true&count_private=true" alt="" />
+  <img align="center" src="https://tperons-github-readme-stats.vercel.app/api?username=tperons&show_icons=true&locale=en&theme=dracula&include_all_commits=true&count_private=true" alt="" />
 </p>
 
 ___
