@@ -40,7 +40,7 @@ ___
 ### My Github Statistics
 
 <p align="center">
-  <img align="center" src="https://tperons-github-readme-stats.vercel.app/api/top-langs/?username=tperons&layout=compact&locale=en&theme=dracula" alt="" />
+  <img align="center" src="https://tperons-github-readme-stats.vercel.app/api/top-langs/?username=tperons&layout=compact&locale=en&theme=dracula&langs_count=6" alt="" />
 </p>
 <p align="center">
   <img align="center" src="https://tperons-github-readme-stats.vercel.app/api?username=tperons&show_icons=true&locale=en&theme=dracula&include_all_commits=true&count_private=true" alt="" />
