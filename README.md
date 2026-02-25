@@ -1,71 +1,61 @@
-<h1 align="center">Hi, I'm Tiago</h1>
+<h1 align="center">👋 Hi, I'm Tiago!</h1>
 
-<h3 align="center">Software Developer</h3>
-
-<p align="center">
-  I am a developer focused on building a solid foundation in software engineering. My approach is based on mastering the fundamentals: I believe in understanding "how" and "why" things work internally, prioritizing deep understanding rather than simply relying on automation.
+<p align="left">
+  I am a developer focused on building a solid foundation in software engineering. Coming from a background in physics and administration, my approach is highly analytical: I believe in deeply understanding the "how" and "why" behind the code.
 </p>
 
-<p align="center">
-  I strive to have control over my work and learning environment, seeking out manuals and documentation to help me resolve configuration issues and errors, ensuring I truly understand the systems I build.
+<p align="left">
+  Instead of relying heavily on IDE automations or initial abstractions, I prefer to master the essential fundamentals and delve into the documentation. My ultimate goals are deep learning, clean code, and building maintainable and scalable systems.
 </p>
 
-<p align="center">
-    <img height="25" src="https://www.vectorlogo.zone/logos/java/java-icon.svg"/>
-    <img height="25" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg"/>
-    <img height="25" src="https://www.vectorlogo.zone/logos/apache_maven/apache_maven-icon.svg"/>
-    <img height="25" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"/>
-    <img height="25" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg"/>
-    <img height="25" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"/>
-    <img height="25" src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg"/>
-    <img height="25" src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg"/>
-    <img height="25" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"/>
-    <img height="25" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon~old.svg"/>
-    <img height="25" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg"/>
-    <img height="25" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/>
-    <img height="25" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"/>
-    <img height="25" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg"/>
-    <img height="25" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg"/>
-    <img height="25" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg"/>
-    <img height="25" src="https://www.vectorlogo.zone/logos/jetbrains/jetbrains-ar21~bgwhite.svg"/>
-    <img height="25" src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg"/>
-</p>
 
 ___
 
-### Tech Stack & Tools
+### 💻 Tech Stack & Tools
 
-My current focus is on backend architecture and modern web development.
+My current focus is on backend architecture and modern web development, utilizing the tools below to build good solutions.
 
-**Languages & Frameworks:**
+**Backend & Databases:**
+<p align="left">
+    <img height="25" src="https://skillicons.dev/icons?i=java,spring,maven,python,django,nodejs,mysql,postgres,mongodb&theme=light" />
+</p>
+
 * **Java** (Spring Framework, Maven)
 * **Python** (Django)
-* **JavaScript** (Vanilla JS Concepts, Angular - learning)
+* **Node.js**
+* **Databases:** MySQL, PostgreSQL, MongoDB
+
+**Frontend:**
+<p align="left">
+    <img height="25" src="https://skillicons.dev/icons?i=javascript,ts,angular,html,css&theme=light" />
+</p>
+
+* **JavaScript** (Vanilla JS concepts, currently expanding into Angular and TypeScript)
+* **HTML & CSS**
 
 **Environment & DevOps:**
+<p align="left">
+    <img height="25" src="https://skillicons.dev/icons?i=docker,git,postman,linux,vscode&theme=light" />
+</p>
+
 * **Containerization:** Docker
 * **Version Control:** Git
-* **IDEs:** VS Code, JetBrains
+* **Tools:** Postman, Linux, VS Code, JetBrains
+
 
 ___
 
-### Development Philosophy
+### 📊 My Github Statistics
 
-* **Deep Learning:** My goal is deep understanding. I avoid abstractions until I fully grasp the problem they solve.
-* **Clean Code:** Code clarity and maintainability are top priorities.
-
-___
-
-### My Github Statistics
-
-<div align="left">
-    <img height="180em" src="https://tperons-github-readme-stats.vercel.app/api/top-langs/?username=tperons&show_icons=true&hide_border=true&layout=compact&langs_count=6&theme=shadow_red"/>
+<p align="left">
+    <img height="180em" src="https://tperons-github-readme-stats.vercel.app/api/top-langs/?username=tperons&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=shadow_red"/>
     <img height="180em" src="https://tperons-github-readme-stats.vercel.app/api?username=tperons&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=shadow_red"/>
-</div>
+</p>
+
 
 ___
 
-### Let's connect?
+### 📫 Let's connect?
 
 <p align="left">
     <a href="https://linkedin.com/in/tperons">
