@@ -48,8 +48,8 @@ ___
 ### 📊 My Github Statistics
 
 <p align="left">
-    <img height="180em" src="https://tperons-github-readme-stats.vercel.app/api/top-langs/?username=tperons&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=shadow_red"/>
-    <img height="180em" src="https://tperons-github-readme-stats.vercel.app/api?username=tperons&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=shadow_red"/>
+    <img height="180em" src="https://github-readme-stats-seven-flame-vavlrjtfga.vercel.app/api/top-langs/?username=tperons&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=shadow_red"/>
+    <img height="180em" src="https://github-readme-stats-seven-flame-vavlrjtfga.vercel.app/api?username=tperons&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=shadow_red"/>
 </p>
 
 
