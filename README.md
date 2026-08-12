@@ -48,8 +48,8 @@ ___
 ### 📊 My Github Statistics
 
 <p align="left">
-    <img height="180em" src="https://github-readme-stats-seven-flame-vavlrjtfga.vercel.app/api/top-langs/?username=tperons&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=shadow_red&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats-seven-flame-vavlrjtfga.vercel.app/api?username=tperons&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=shadow_red&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-seven-flame-vavlrjtfga.vercel.app/api/top-langs/?username=tiago-peron&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=shadow_red&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-seven-flame-vavlrjtfga.vercel.app/api?username=tiago-peron&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=shadow_red&count_private=true"/>
 </p>
 
 
@@ -58,7 +58,7 @@ ___
 ### 📫 Let's connect?
 
 <p align="left">
-    <a href="https://linkedin.com/in/tperons">
+    <a href="https://linkedin.com/in/tiago-peron">
         <img height="25" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="My LinkedIn"/>
     </a>
     <a href="mailto:tperons@gmail.com">
