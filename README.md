@@ -17,20 +17,18 @@ My current focus is on backend architecture and modern web development, utilizin
 
 **Backend & Databases:**
 <p align="left">
-    <img height="25" src="https://skillicons.dev/icons?i=java,spring,maven,python,django,nodejs,mysql,postgres,mongodb&theme=light" />
+    <img height="25" src="https://skillicons.dev/icons?i=java,spring,maven,postgres,mysql,mongodb&theme=light" />
 </p>
 
 * **Java** (Spring Framework, Maven)
-* **Python** (Django)
-* **Node.js**
-* **Databases:** MySQL, PostgreSQL, MongoDB
+* **Databases:** PostgreSQL, MySQL, MongoDB
 
 **Frontend:**
 <p align="left">
-    <img height="25" src="https://skillicons.dev/icons?i=javascript,ts,angular,html,css&theme=light" />
+    <img height="25" src="https://skillicons.dev/icons?i=javascript,ts,angular,react,html,css&theme=light" />
 </p>
 
-* **JavaScript** (Vanilla JS concepts, currently expanding into Angular and TypeScript)
+* **JavaScript** (Vanilla JS concepts, currently expanding into Angular, TypeScript and React)
 * **HTML & CSS**
 
 **Environment & DevOps:**
